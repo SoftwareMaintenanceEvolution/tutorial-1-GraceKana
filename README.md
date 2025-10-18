@@ -3,7 +3,8 @@
 Hi! I'm [Your Name], a student in the Framework-Based Software Design and Development course. 
 I [expect to learn a lot about modern software maintenance practices and how to work with legacy systems].
 
-![My Image](image.jpg)  <!-- Link to the uploaded image -->
+![My Image]![photo Grace Jardin](https://github.com/user-attachments/assets/72e2525b-03e1-46bd-92f7-8412911d04fa)
+
 
 ## GitHub Profile
 
